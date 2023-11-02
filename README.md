@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋🏽 I'm Brianna </h1></center>
 <h3 align="center">A Boston-based Software Engineer 👩🏽‍💻</h3></center>
 
-- 🌱 I am currently working projects using Javascript, Node.js, React and MongoDB
+- 🌱 I am currently working on projects using Javascript, Node.js, React and MongoDB
 - 👩🏽‍🎨 I enjoy the creative side of being an engineer!
 - 🎉<b>Fun Fact:</b> I am a cat mom to my sweet baby Stella 🐱
 
